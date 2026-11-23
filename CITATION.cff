@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite them as below."
+type: dataset
+title: "Samuel Krauss – digital edition: Griechische und lateinische Lehnwörter im Talmud, Midrasch und Targum (part II); Talmudische Archäologie (vols. I–III)"
+authors:
+  - family-names: Itkin
+    given-names: Igor Mendel
+version: "1.0.0"
+date-released: "2026-11-23"
+license: CC-BY-4.0
+repository-code: "https://github.com/mitkin89/krauss-works"
+keywords: [Krauss, Talmud, loanwords, Greek, Latin, archaeology, material culture, Jewish studies, DSL]
+references:
+  - type: book
+    title: "Griechische und lateinische Lehnwörter im Talmud, Midrasch und Targum. Teil II"
+    authors:
+      - family-names: Krauss
+        given-names: Samuel
+    year: 1899
+    location:
+      name: Berlin
+  - type: book
+    title: "Talmudische Archäologie"
+    authors:
+      - family-names: Krauss
+        given-names: Samuel
+    year: 1910
+    location:
+      name: Leipzig

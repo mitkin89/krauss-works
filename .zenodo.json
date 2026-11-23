@@ -1,0 +1,11 @@
+{
+  "title": "Samuel Krauss – digital edition: Griechische und lateinische Lehnwörter im Talmud, Midrasch und Targum (part II, 1899) and Talmudische Archäologie (vols. I–III, 1910–1912)",
+  "upload_type": "dataset",
+  "description": "Transcription of two works of Samuel Krauss: the dictionary of Greek and Latin loanwords in Talmud, Midrash and Targum (part II, Berlin 1899, with notes by Immanuel Löw; 6,329 entries, as JSON and DSL) and the Talmudische Archäologie (3 vols., Leipzig 1910–1912; full text with 8,657 notes and 75 figures as JSON and Markdown, the index of vol. III as a dictionary, and the bibliography of cited works). Abbreviations explained, references resolved. Transcribed with Claude (Anthropic, 2026) from page images in eScriptorium; a working transcription, not a critical edition. Prepared for the Safran library (https://github.com/mitkin89/Safran).",
+  "creators": [{"name": "Itkin, Igor Mendel"}],
+  "license": "cc-by-4.0",
+  "keywords": ["Krauss", "Talmud", "loanwords", "Greek", "Latin", "Talmudische Archäologie", "material culture", "Jewish studies"],
+  "related_identifiers": [
+    {"identifier": "https://github.com/mitkin89/Safran", "relation": "isSupplementTo", "scheme": "url"}
+  ]
+}
