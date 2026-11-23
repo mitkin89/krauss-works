@@ -1,5 +1,7 @@
 # Samuel Krauss – digitale Ausgabe
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24465261.svg)](https://doi.org/10.5281/zenodo.24465261)
+
 [English](README.md) · **Deutsch**
 
 Zwei Werke von Samuel Krauss (1866–1948) zur Sprache und Sachkultur des Talmud, nach den gedruckten Bänden transkribiert:
@@ -24,5 +26,7 @@ Aufbau und Auszeichnung sind in der [englischen Fassung](README.md#contents) bes
 - Transkription, strukturierte Daten, DSL-Dateien, die entnommenen Abbildungen und die Listen: **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)**, siehe [LICENSE.md](LICENSE.md).
 
 ## Zitieren
+
+Itkin, Igor Mendel (Hg.): *Samuel Krauss – digital edition*, Version 1.0.0, 2026. https://doi.org/10.5281/zenodo.24465261
 
 Siehe [CITATION.cff](CITATION.cff). Jede Version wird auf Zenodo mit eigener DOI archiviert.
