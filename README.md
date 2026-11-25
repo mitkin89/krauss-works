@@ -1,5 +1,11 @@
 # Samuel Krauss – digital edition
 
+<p align="center">
+  <img src="portraits/krauss.jpg" alt="Samuel Krauss" title="Samuel Krauss" height="180">
+  <br>
+  <sub>Samuel Krauss</sub>
+</p>
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24465261.svg)](https://doi.org/10.5281/zenodo.24465261)
 
 **English** · [Deutsch](README.de.md)
